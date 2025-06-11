@@ -46,6 +46,7 @@ GIF created with loom
 ## Notes
 
 Describe any challenges encountered while building the app.
+  figuring out styling 
 
 ## License
 
